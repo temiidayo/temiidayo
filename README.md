@@ -1,14 +1,12 @@
 
 <div align="center">
   <h1>Hey 👋, I'm Emmanuel </h1>
-  <h2>Software Engineer</h2>
 </div>
 
-<!--
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer+%7C+React+Developer+%7C+Next.js+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+create+high-performance,+production-ready+web+applications&center=true&width=900&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer+%7C+React+Developer+%7C+Next.js+Developer;Software+Engineer+%7C+Full-Stack+Developer+%7C+Mobile+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+design+and+build+secure+and+scalable+APIs...;I+create+high-performance,+production-ready+web+and+mobile+apps&center=true&width=900&height=45" />
 </div>
--->
+
 
 <!--
 <div align="center">
