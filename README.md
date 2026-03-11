@@ -20,7 +20,7 @@
 
 👋 I love building intelligent and scalable web & mobile apps that solve real-world problems.  
 
-💡 I’m deeply interested in creating clean, efficient, and user-friendly solutions using modern technologies. 
+💡 I’m deeply interested in creating clean, efficient, and user-friendly solutions.
 
 🎯 I focus on writing maintainable code and crafting products that deliver seamless user experiences.  
 
