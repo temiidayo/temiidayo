@@ -230,7 +230,7 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 -->
 
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in discussing technology, collaborating on projects, or just having a good conversation about code!  
 
