@@ -28,7 +28,7 @@
 
 - I write maintainable code and craft products that deliver seamless user experiences.  
 
-- I’m constantly learning and building with modern technologies to improve in the tech world.   
+- I’m constantly learning and building with modern technologies to improve in tech world.   
 
 
 <br>
