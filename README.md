@@ -82,7 +82,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3>Main Stack</h3>
   <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
