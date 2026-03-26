@@ -18,7 +18,7 @@
 </div>
 -->
 
-<!--
+
 ## About Me  
 
 
@@ -26,12 +26,27 @@
 
 - I’m deeply interested in creating clean, efficient, and user-friendly solutions
 
-- I write maintainable code and craft products that deliver seamless user experiences  
-
 - I’m constantly learning and building with modern technologies to improve in tech world   
 
 
 <br>
+
+---
+
+<!--
+### My Tech Stack
+
+| Layer | Tools |
+|---|---|
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui |
+| **Backend** | Golang, Node.js, Hono.js |
+| **Database** | PostgreSQL, MongoDB, Redis, Prisma ORM |
+| **DevOps** | Docker, GitHub Actions, VPS |
+| **Infrastructure** | Cloudflare (DNS, domains, edge) |
+| **State** | Zustand, React Query |
+-->
+
+---
 
 <!--
 
