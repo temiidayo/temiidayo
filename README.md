@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Emmanuel </h1>
+  <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Temiidayo </h1>
   <h3>Software Engineer</h3>
 </div>
 
