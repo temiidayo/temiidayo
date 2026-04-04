@@ -19,7 +19,7 @@
 -->
 
 
-
+<!--
 ## About Me
 
 
@@ -29,6 +29,7 @@
   
 - Curious and always learning through documentation, experimentation and projects
 
+-->
 
 <br>
 
@@ -91,6 +92,9 @@
 -->
 
 
+<!--
+
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -123,6 +127,9 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+
+--> 
 
 
 <!--
