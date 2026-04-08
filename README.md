@@ -34,8 +34,6 @@
 
 -->
 
-<br>
-
 
 <!--
 ### My Tech Stack
