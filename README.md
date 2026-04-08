@@ -1,10 +1,13 @@
-
+<!--
 <div align="center">
   <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Temiidayo </h1>
   <h2>Software Engineer</h2>
 </div>
 
 <br>
+
+-->
+
 
 <!--
 <div align="center">
@@ -249,6 +252,7 @@ JSON         15 mins         ▒░░░░░░░░░░░░░░░░
 -->
 
 
+<!--
 ## Let's Connect!
 
 I'm always interested in discussing technology, collaborating on projects, or just having a good conversation about code!  
@@ -256,3 +260,5 @@ I'm always interested in discussing technology, collaborating on projects, or ju
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adebayotemidayo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayotemidayo601@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+-->
