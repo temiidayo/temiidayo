@@ -37,8 +37,8 @@
 
 | Layer | Tools |
 |---|---|
-| **Frontend** | Next.js, React, TypeScript, Tailwind, shadcn/ui |
-| **Backend** | Node.js |
+| **Frontend** | Next.js, React, TypeScript, Tailwind |
+| **Backend** | Node.js, Python/Django, PHP/Laravel |
 | **DB & Storage** | PostgreSQL, MongoDB, Prisma ORM |
 | **Cloud & DevOps** | Docker, Firebase, Supabase |
 | **State Management** | Zustand, React Query |
@@ -56,6 +56,6 @@ I'm always interested in discussing technology, collaborating on projects, or ju
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adebayotemidayo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayotemidayo601@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://temiidayo.vercel.app)
 
 
