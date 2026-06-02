@@ -36,7 +36,7 @@
 
 | Layer | Tools |
 |---|---|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui |
+| **Frontend** | Next.js, React, TypeScript, Tailwind, shadcn/ui |
 | **Backend** | Node.js, Express |
 | **DB & Storage** | PostgreSQL, MongoDB, Prisma ORM |
 | **Cloud & DevOps** | Docker, Firebase, Supabase |
