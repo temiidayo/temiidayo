@@ -30,6 +30,7 @@
 
 <br><br>
 
+<!--
 
 
 ### 🛠️ Tech Stack
@@ -37,13 +38,13 @@
 | Layer | Tools |
 |---|---|
 | **Frontend** | Next.js, React, TypeScript, Tailwind, shadcn/ui |
-| **Backend** | Node.js, Express |
+| **Backend** | Node.js |
 | **DB & Storage** | PostgreSQL, MongoDB, Prisma ORM |
 | **Cloud & DevOps** | Docker, Firebase, Supabase |
 | **State Management** | Zustand, React Query |
 
 
-
+-->
 
 <br><br>
 
